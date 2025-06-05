@@ -69,3 +69,21 @@ High score tracking or leaderboard
 ## 🎮 Game Preview
 
 ![Screenshot](screenshot.png)
+
+## 🛠️ Installation
+
+Clone the repo:
+git clone https://github.com/Mohammad-Faiz-Shaikh/Dice-Game.git
+cd Dice-Game
+python dice_game.py
+
+
+## 🙋‍♂️ How to Play
+1. Enter number of players.
+2. Set your target score.
+3. Players take turns rolling the dice.
+4. Rolling 6 gives up to 2 extra turns.
+5. First to hit the exact target wins.
+
+## 📄 License
+This project is licensed under the MIT License.

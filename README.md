@@ -65,3 +65,7 @@ Web version using Flask or Django
 High score tracking or leaderboard
 
 🎉 Enjoy the game and let the dice decide your fate!
+
+## 🎮 Game Preview
+
+![Screenshot](screenshot.png)
